@@ -1,0 +1,4 @@
+$h:42px;
+.editor {
+    height: calc(100vh - #{$h});
+}
