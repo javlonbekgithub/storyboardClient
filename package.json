@@ -6,7 +6,7 @@
     "mobx": "^5.15.0",
     "mobx-react": "^6.1.4",
     "node-error-codes": "0.0.4",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-icons": "^3.8.0",
